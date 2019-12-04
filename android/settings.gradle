@@ -1,3 +1,5 @@
 rootProject.name = 'NetInfoDemo'
 
 include ':app'
+include ':react-native-community-netinfo'
+project(':react-native-community-netinfo').projectDir = new File(rootProject.projectDir, '../node_modules/@react-native-community/netinfo/android')
