@@ -850,10 +850,9 @@
     xcode "^2.0.0"
     xmldoc "^0.4.0"
 
-"@react-native-community/netinfo@5.0.0":
+"@react-native-community/netinfo@https://github.com/QuickBase/react-native-netinfo.git#connection_change_bug_android":
   version "5.0.0"
-  resolved "https://registry.yarnpkg.com/@react-native-community/netinfo/-/netinfo-5.0.0.tgz#c8708558c9a116c138a43bed4bb0b4af85f111bc"
-  integrity sha512-MDvQ+jh9P1S8/CvxLyDqWFNc31oL5a2UkVtOyGFslLmxbO3Q4h/xFPM+b2NJ97GvQAsdhL18EpOWVu1AXodeFw==
+  resolved "https://github.com/QuickBase/react-native-netinfo.git#f2bd1feb4bac6a48bd720ad188bf3169f323ff89"
 
 "@types/babel__core@^7.1.0":
   version "7.1.3"

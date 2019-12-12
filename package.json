@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@react-native-community/netinfo": "5.0.0",
+    "@react-native-community/netinfo": "https://github.com/QuickBase/react-native-netinfo.git#connection_change_bug_android",
     "jetifier": "^1.6.5",
     "react": "16.8.3",
     "react-native": "0.59.9"
